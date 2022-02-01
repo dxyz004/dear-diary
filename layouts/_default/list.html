@@ -1,0 +1,25 @@
+<html>
+<head>
+	<link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"/>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+</head>
+<body>
+	{{ partial "header" . }}
+	{{range .Pages}}
+	<section class="mw7 center">
+	<ul>
+		<article>
+		<a class="db pv4 ph3 ph0-l no-underline black dim" href="{{.Permalink}}">
+		<h1 class="f3 fw1 mt0 lh-title">{{.Title}}</h1>
+		<p>{{ .Summary }}</p>
+		</a>
+		</article>
+	</ul>
+	</section>
+	{{end}}
+	{{ partial "footer" . }}
+</body>
+</html>

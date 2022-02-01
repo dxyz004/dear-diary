@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>List of Words</title>
+      <link>http://example.org/c/</link>
+      <pubDate>Mon, 31 Jan 2022 19:30:01 -0600</pubDate>
+      
+      <guid>http://example.org/c/</guid>
+      <description>SEALT</description>
+    </item>
+    
+    <item>
+      <title>Sports Analytics</title>
+      <link>http://example.org/b/</link>
+      <pubDate>Mon, 31 Jan 2022 19:25:53 -0600</pubDate>
+      
+      <guid>http://example.org/b/</guid>
+      <description>WEBAPP</description>
+    </item>
+    
+    <item>
+      <title>THE ADVENTURE OF THE ENGINEER’S THUMB</title>
+      <link>http://example.org/a/</link>
+      <pubDate>Sat, 29 Jan 2022 17:48:45 -0600</pubDate>
+      
+      <guid>http://example.org/a/</guid>
+      <description>Of all the problems which have been submitted to my friend, Mr. Sherlock Holmes, for solution during the years of our intimacy, there were only two which I was the means of introducing to his notice—that of Mr. Hatherley’s thumb, and that of Colonel Warburton’s madness. Of these the latter may have afforded a finer field for an acute and original observer, but the other was so strange in its inception and so dramatic in its details that it may be the more worthy of being placed upon record, even if it gave my friend fewer openings for those deductive methods of reasoning by which he achieved such remarkable results.</description>
+    </item>
+    
+  </channel>
+</rss>

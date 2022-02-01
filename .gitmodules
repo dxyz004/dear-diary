@@ -1,0 +1,9 @@
+[submodule "gruvhugo"]
+	path = gruvhugo
+	url = https://gitlab.com/avron/gruvhugo.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/ga"]
+	path = themes/ga
+	url = https://github.com/giraffeacademy/ga-hugo-theme
