@@ -7,21 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>List of Words</title>
+      <title>Three</title>
+      <link>http://example.org/three/</link>
+      <pubDate>Wed, 02 Feb 2022 16:49:39 -0600</pubDate>
+      
+      <guid>http://example.org/three/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two</title>
+      <link>http://example.org/two/</link>
+      <pubDate>Wed, 02 Feb 2022 16:49:36 -0600</pubDate>
+      
+      <guid>http://example.org/two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One</title>
+      <link>http://example.org/one/</link>
+      <pubDate>Wed, 02 Feb 2022 16:49:33 -0600</pubDate>
+      
+      <guid>http://example.org/one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAST a College Basketball Metric</title>
       <link>http://example.org/c/</link>
       <pubDate>Mon, 31 Jan 2022 19:30:01 -0600</pubDate>
       
       <guid>http://example.org/c/</guid>
-      <description> Track Beam Hydra Loop  </description>
-    </item>
-    
-    <item>
-      <title>THE ADVENTURE OF THE ENGINEER’S THUMB</title>
-      <link>http://example.org/a/</link>
-      <pubDate>Sat, 29 Jan 2022 17:48:45 -0600</pubDate>
-      
-      <guid>http://example.org/a/</guid>
-      <description>Of all the problems which have been submitted to my friend, Mr. Sherlock Holmes, for solution during the years of our intimacy, there were only two which I was the means of introducing to his notice—that of Mr. Hatherley’s thumb, and that of Colonel Warburton’s madness. Of these the latter may have afforded a finer field for an acute and original observer, but the other was so strange in its inception and so dramatic in its details that it may be the more worthy of being placed upon record, even if it gave my friend fewer openings for those deductive methods of reasoning by which he achieved such remarkable results.</description>
+      <description>FAST is a one-number metric to help inform of the next two-way NBA stars.
+FAST stands for:
+ Free throws Age Steals Turnovers  Data viz:</description>
     </item>
     
   </channel>
