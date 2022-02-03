@@ -7,41 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Three</title>
-      <link>http://example.org/three/</link>
-      <pubDate>Wed, 02 Feb 2022 16:49:39 -0600</pubDate>
-      
-      <guid>http://example.org/three/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Two</title>
-      <link>http://example.org/two/</link>
-      <pubDate>Wed, 02 Feb 2022 16:49:36 -0600</pubDate>
-      
-      <guid>http://example.org/two/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>One</title>
-      <link>http://example.org/one/</link>
-      <pubDate>Wed, 02 Feb 2022 16:49:33 -0600</pubDate>
-      
-      <guid>http://example.org/one/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FAST a College Basketball Metric</title>
-      <link>http://example.org/c/</link>
+      <title>FAST: A College Basketball Metric</title>
+      <link>http://example.org/fast/</link>
       <pubDate>Mon, 31 Jan 2022 19:30:01 -0600</pubDate>
       
-      <guid>http://example.org/c/</guid>
-      <description>FAST is a one-number metric to help inform of the next two-way NBA stars.
+      <guid>http://example.org/fast/</guid>
+      <description>FAST is a one-number metric to help inform of the next two-way1NBA stars.
 FAST stands for:
- Free throws Age Steals Turnovers  Data viz:</description>
+ Free throws Age Steals Turnovers     Player Name FAST Score     Jabari Smith 100   Paolo Banchero 99     1- Weighted combined offensive and defensive impact. E.g., FAST likes Chris Paul more than Trae Young.</description>
     </item>
     
   </channel>
