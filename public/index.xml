@@ -7,14 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Screenshots</title>
+      <link>http://example.org/screenshots/</link>
+      <pubDate>Thu, 03 Feb 2022 22:02:39 -0600</pubDate>
+      
+      <guid>http://example.org/screenshots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sherlock</title>
+      <link>http://example.org/sherlock/</link>
+      <pubDate>Thu, 03 Feb 2022 22:02:23 -0600</pubDate>
+      
+      <guid>http://example.org/sherlock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FAST: A College Basketball Metric</title>
       <link>http://example.org/fast/</link>
       <pubDate>Mon, 31 Jan 2022 19:30:01 -0600</pubDate>
       
       <guid>http://example.org/fast/</guid>
-      <description>FAST is a one-number metric to help inform of the next two-way1NBA stars.
+      <description>FAST is a one-number metric to help inform of the next two-way NBA stars.
 FAST stands for:
- Free throws Age Steals Turnovers     Player Name FAST Score     Jabari Smith 100   Paolo Banchero 99     1- Weighted combined offensive and defensive impact. E.g., FAST likes Chris Paul more than Trae Young.</description>
+ Free throws Age Steals Turnovers  </description>
     </item>
     
   </channel>
