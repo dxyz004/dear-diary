@@ -13,11 +13,8 @@
       
       <guid>http://example.org/midtermoutline/</guid>
       <description>Know the principles of Object Oriented programming (inheritance, encapsulation etc.)
-3354_oo_process.pdf3354_s20_june3-2020.pdf  Be able to give an overview of the Extreme Programming process from the survey of agile processes
-3.1.1. Process (Figure 2. Life cycle &amp;hellip;)
-agilecomp.pdf  Know the principles of Model-Driven development and its advantages
-Model driven paradigm:
- The system is defined as an executable specification which is an object-oriented analysis model. The system is validated at the analysis model level.</description>
+3354_oo_process.pdf3354_s20_june3-2020.pdfUse All to Achieve OO:
+ Inheritance: Is an ability to inherit. Function implementations (behaviors) by a subclass from a super class. Main benefit is software reuse. &amp;ldquo;No silver bullet&amp;rdquo;. Drawback: class hierarchy. Polymorphism: Is an ability to provide multiple implementations for a single function declaration. Simplifies code. Complicates testing. Superclass shape example: We need to have an array of shapes.</description>
     </item>
     
   </channel>

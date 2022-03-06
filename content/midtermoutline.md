@@ -8,6 +8,13 @@ date: 2022-03-06T03:14:59.000-06:00
     [3354_oo_process.pdf](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/3354_oo_process.pdf)
 
     [3354_s20_june3-2020.pdf](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/3354_s20_june3-2020.pdf)
+	
+	Use All to Achieve OO:
+	- Inheritance: Is an ability to inherit. Function implementations (behaviors) by a subclass from a super class. Main benefit is software reuse.
+	"No silver bullet".
+	Drawback: class hierarchy.
+	- Polymorphism: Is an ability to provide multiple implementations for a single function declaration. Simplifies code. Complicates testing. Superclass shape example: We need to have an array of shapes. We can use a general "shape".
+	- Encapsulation: Is hiding an object's state. Ex: Not wanting to change attributes. Increases reliability--a reliable system doesn't have many bugs on paths of frequent executions.
  2. **Be able to give an overview of the Extreme Programming process from the survey of agile processes**
 
     _3.1.1. Process (Figure 2. Life cycle ...)_
@@ -35,12 +42,15 @@ date: 2022-03-06T03:14:59.000-06:00
  
  8. **Be able to create a class diagram and a statechart from requirements**
  
+	_In the process of redrawing his scrawl._
+	
 	Class diagram: Library Example
 	
 	Statechart: Lift Control Case Study
  9. **Know what is tested in different stages of testing (unit, integration, system, acceptance, regression)**
  
 	Verification and Validation
+	
 	Types of Testing—what is tested
 	- Unit
 	- Integration
