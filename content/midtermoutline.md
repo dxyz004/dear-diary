@@ -52,17 +52,17 @@ date: 2022-03-06T03:14:59.000-06:00
 	Verification and Validation
 	
 	Types of Testing—what is tested
-	- Unit
-	- Integration
-	- System
-	- Acceptance
-	- Regression
+	- Unit:
+	- Integration:
+	- System:
+	- Acceptance:
+	- Regression:
 	
 	[VandV.PDF](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/VandV.PDF)
 10. **Be able to create testcases with a JUnit framework**
 
 	http://junit.sourceforge.net/doc/testinfected/testing.htm
-	(No coding)
+	(no coding)
 11. **Be able to create testcases according to boundary, statement and edge coverage criteria**
 
 	Given Java code. Provide X amount of paths.
