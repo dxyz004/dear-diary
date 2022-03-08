@@ -31,32 +31,37 @@ date: 2022-03-06T03:14:59.000-06:00
 	Advantages/Why:
 	[introclassesattr.pdf](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/introclassesattr.pdf)
  4. **Know the Model-View-Controller (MVC) architectural style - its constraints and benefits**
- 
+	![]https://heuristic-brahmagupta-965a2c.netlify.app/uploads/mvc-diagram.jpg
+	Constraints and benefits:
 	[model-view-controller.PDF](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/model-view-controller.PDF)
  5. **Know how to implement event-based notification in Java**
  
-	Listeners ...
+	General Idea/Code snippets from:
+	[model-view-controller.PDF](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/model-view-controller.PDF)
  6. **Know the syntax of the class diagram language (class representations, various kinds of associations)**
  
  7. **Know the syntax of the statechart diagram language**
  
  8. **Be able to create a class diagram and a statechart from requirements**
- 
-	_In the process of redrawing his scrawl._
 	
 	Class diagram: Library Example
 	
-	Statechart: Lift Control Case Study
+	Statechart: LExceptionAndLightBulbClass.pdf
  9. **Know what is tested in different stages of testing (unit, integration, system, acceptance, regression)**
  
-	Verification and Validation
+	**V**alidation: techniques for assessing the quality of a software product.
+	**V**erification: the use of analytic inference to (formally) prove that a product is consistent with a specification of its intent
 	
 	Types of Testing—what is tested
-	- Unit:
-	- Integration:
-	- System:
-	- Acceptance:
-	- Regression:
+	- Unit: exercise a single simple component
+		- Procedure
+		- Class
+	- Integration: exercise a collection of interdependent components
+		- Focus on interfaces between components
+	- System: exercise a complete, stand-alone system
+	- Acceptance: customer's evaluation of a system
+		- Usually a form of system testing
+	- Regression: exercise a changed system
 	
 	[VandV.PDF](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/VandV.PDF)
 10. **Be able to create testcases with a JUnit framework**
@@ -66,3 +71,28 @@ date: 2022-03-06T03:14:59.000-06:00
 11. **Be able to create testcases according to boundary, statement and edge coverage criteria**
 
 	Given Java code. Provide X amount of paths.
+	
+---
+
+03/08/22 Review Session
+
+1. Inheritance, encapsulation, polymorphism. June 3 pdf. Definition, benefits and downsides.
+
+2. Draw Figure 2 diagram or textually describe the different phases. (Pair programming mentioned in class, senior-junior example)
+
+3. Model Driven development ... manage the scale of large systems. Theoretically spent all your time designing so coding/product can be automated/easier. Less testing because more validation. "The system is validated at the analysis model level".
+
+4. Model-View-Controller (recreate MVC diagram jpg) "MVC Architecture from SUN" Benefits: 
+	- Prof's favorite: Ability to create multiple views w/o shutting down the model.
+	- Reusability of application and/or user interface compoents
+	- Ability to develop the application
+
+5. Basic idea for implementation/methodology. Probably not code based testing. Modern software can talk with other software.
+
+6 - 8. Create your own diagrams. More flexibile than library example (blank boxes are short-term/long-term goal)...
+Statechart ExceptionAndLightBulbClass.pdf ...
+
+9.
+
+10.
+
