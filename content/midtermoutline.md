@@ -34,17 +34,17 @@ date: 2022-03-06T03:14:59.000-06:00
  ![](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/mvc-diagram.jpg)
 
 Constraints and benefits: [model-view-controller.PDF](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/model-view-controller.PDF)
+
  5. **Know how to implement event-based notification in Java**
 
-    General Idea/Code snippets from:
-    [model-view-controller.PDF] (https://heuristic-brahmagupta-965a2c.netlify.app/uploads/model-view-controller.PDF)
+    General Idea/Code snippets from MVC pdf.
  6. **Know the syntax of the class diagram language (class representations, various kinds of associations)**
  7. **Know the syntax of the statechart diagram language**
  8. **Be able to create a class diagram and a statechart from requirements**
 
     Class diagram: Library Example
 
-    Statechart: LExceptionAndLightBulbClass.pdf
+    Statechart: ExceptionAndLightBulbClass.pdf
  9. **Know what is tested in different stages of testing (unit, integration, system, acceptance, regression)**
 
     **V**alidation: techniques for assessing the quality of a software product.
@@ -66,27 +66,30 @@ Constraints and benefits: [model-view-controller.PDF](https://heuristic-brahmagu
 10. **Be able to create testcases with a JUnit framework**
 
     http://junit.sourceforge.net/doc/testinfected/testing.htm
-    (no coding)
+    (no coding/not asked)
 11. **Be able to create testcases according to boundary, statement and edge coverage criteria**
-
-    Given Java code. Provide X amount of paths.
 
 ***
 
 03/08/22 Review Session
 
-1. Inheritance, encapsulation, polymorphism. June 3 pdf. Definition, benefits and downsides.
-2. Draw Figure 2 diagram or textually describe the different phases. (Pair programming mentioned in class, senior-junior example)
-3. Model Driven. Goal is to manage the scale of large systems. Theoretically spent all your time designing so coding/product can be automated/easier. Less testing because more validation. "The system is validated at the analysis model level".
-4. Model-View-Controller. Recreate SUN diagram above.
+- Inheritance, encapsulation, polymorphism. June 3 pdf. Definition, benefits and downsides.
+
+- Draw Figure 2 diagram or textually describe the different phases. (Pair programming mentioned in class, senior-junior example)
+
+- Model Driven. Goal is to manage the scale of large systems. Theoretically spent all your time designing so coding/product can be automated/easier. Less testing because more validation. "The system is validated at the analysis model level".
+
+- Model-View-Controller. Recreate SUN diagram above.
    * Prof's favorite (often mentioned) benefit: Ability to create multiple views w/o shutting down the model.
    * Reusability of application and/or user interface compoents
    * Ability to develop the application...
-5. Basic ideas for implementation/methodology. Probably not code-based testing on MT. "Modern software can talk with other software".
 
-6. (6-8) Create your own diagrams. More "flexibile" than library example (of which the blank boxes represent short-term/long-term goals)...
-**Statechart** ExceptionAndLightBulbClass.pdf ...
+- Basic ideas for implementation/methodology. Probably not code-based testing on MT. "Modern software can talk with other software".
 
-9. Unit Testing in Java: How Tests Drive the Code supplementary textbook
+- Create your own diagrams. More "flexibile" than library example (of which the blank boxes represent short-term/long-term goals)...
 
-11. Create a control flow graph. Write out paths that satisfy edge converage. Write conditions. Write test cases. Invisible paths vs visible paths.
+	**Statechart** ExceptionAndLightBulbClass.pdf ...
+
+- Unit Testing in Java: How Tests Drive the Code supplementary textbook
+
+- Create a control flow graph. Write out paths that satisfy edge converage. Write conditions. Write test cases. Invisible paths vs visible paths.
