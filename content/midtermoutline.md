@@ -84,8 +84,5 @@ Constraints and benefits: [model-view-controller.PDF](https://heuristic-brahmagu
    * Ability to develop the application
 5. Basic idea for implementation/methodology. Probably not code based testing. Modern software can talk with other software.
 
-6 - 8. Create your own diagrams. More flexibile than library example (blank boxes are short-term/long-term goal)...
+	6 - 8. Create your own diagrams. More flexibile than library example (blank boxes are short-term/long-term goal)...
 Statechart ExceptionAndLightBulbClass.pdf ...
-
-1. 
-2.
