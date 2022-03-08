@@ -37,7 +37,7 @@ Constraints and benefits: [model-view-controller.PDF](https://heuristic-brahmagu
  5. **Know how to implement event-based notification in Java**
 
     General Idea/Code snippets from:
-    [model-view-controller.PDF](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/model-view-controller.PDF)
+    [model-view-controller.PDF] (https://heuristic-brahmagupta-965a2c.netlify.app/uploads/model-view-controller.PDF)
  6. **Know the syntax of the class diagram language (class representations, various kinds of associations)**
  7. **Know the syntax of the statechart diagram language**
  8. **Be able to create a class diagram and a statechart from requirements**
@@ -77,12 +77,16 @@ Constraints and benefits: [model-view-controller.PDF](https://heuristic-brahmagu
 
 1. Inheritance, encapsulation, polymorphism. June 3 pdf. Definition, benefits and downsides.
 2. Draw Figure 2 diagram or textually describe the different phases. (Pair programming mentioned in class, senior-junior example)
-3. Model Driven development ... manage the scale of large systems. Theoretically spent all your time designing so coding/product can be automated/easier. Less testing because more validation. "The system is validated at the analysis model level".
-4. Model-View-Controller (recreate MVC diagram jpg) "MVC Architecture from SUN" Benefits:
-   * Prof's favorite: Ability to create multiple views w/o shutting down the model.
+3. Model Driven. Goal is to manage the scale of large systems. Theoretically spent all your time designing so coding/product can be automated/easier. Less testing because more validation. "The system is validated at the analysis model level".
+4. Model-View-Controller. Recreate SUN diagram above.
+   * Prof's favorite (often mentioned) benefit: Ability to create multiple views w/o shutting down the model.
    * Reusability of application and/or user interface compoents
-   * Ability to develop the application
-5. Basic idea for implementation/methodology. Probably not code based testing. Modern software can talk with other software.
+   * Ability to develop the application...
+5. Basic ideas for implementation/methodology. Probably not code-based testing on MT. "Modern software can talk with other software".
 
-	6 - 8. Create your own diagrams. More flexibile than library example (blank boxes are short-term/long-term goal)...
-Statechart ExceptionAndLightBulbClass.pdf ...
+6. (6-8) Create your own diagrams. More "flexibile" than library example (of which the blank boxes represent short-term/long-term goals)...
+**Statechart** ExceptionAndLightBulbClass.pdf ...
+
+9. Unit Testing in Java: How Tests Drive the Code supplementary textbook
+
+11. Create a control flow graph. Write out paths that satisfy edge converage. Write conditions. Write test cases. Invisible paths vs visible paths.
