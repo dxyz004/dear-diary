@@ -33,7 +33,7 @@ date: 2022-03-06T03:14:59.000-06:00
  4. **Know the Model-View-Controller (MVC) architectural style - its constraints and benefits** 
  ![](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/mvc-diagram.jpg)
 
-Constraints and benefits: [model-view-controller.PDF](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/model-view-controller.PDF)
+	Constraints and benefits: [model-view-controller.PDF](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/model-view-controller.PDF)
 
  5. **Know how to implement event-based notification in Java**
 
@@ -71,7 +71,7 @@ Constraints and benefits: [model-view-controller.PDF](https://heuristic-brahmagu
 
 ***
 
-03/08/22 Review Session
+<p style="text-align: center;">03/08/22 Review Session</p>
 
 - Inheritance, encapsulation, polymorphism. June 3 pdf. Definition, benefits and downsides.
 
@@ -84,12 +84,12 @@ Constraints and benefits: [model-view-controller.PDF](https://heuristic-brahmagu
    * Reusability of application and/or user interface compoents
    * Ability to develop the application...
 
-- Basic ideas for implementation/methodology. Probably not code-based testing on MT. "Modern software can talk with other software".
+- Basic ideas for implementation and methodology. Probably not code-based testing on MT. "Modern software can talk with other software".
 
 - Create your own diagrams. More "flexibile" than library example (of which the blank boxes represent short-term/long-term goals)...
 
 	**Statechart** ExceptionAndLightBulbClass.pdf ...
 
-- Unit Testing in Java: How Tests Drive the Code supplementary textbook
+- "Unit Testing in Java: How Tests Drive the Code" supplementary textbook
 
 - Create a control flow graph. Write out paths that satisfy edge converage. Write conditions. Write test cases. Invisible paths vs visible paths.
