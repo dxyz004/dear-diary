@@ -71,7 +71,7 @@ date: 2022-03-06T03:14:59.000-06:00
 
 ***
 
-<p style="text-align: center;">03/08/22 Review Session</p>
+**03/08/22 Review Session**
 
 - Inheritance, encapsulation, polymorphism. June 3 pdf. Definition, benefits and downsides.
 
