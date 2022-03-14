@@ -37,14 +37,16 @@ date: 2022-03-06T03:14:59.000-06:00
 
  5. **Know how to implement event-based notification in Java**
 
-    General Idea/Code snippets from MVC pdf.
+    General idea/Code snippets from MVC pdf.
  6. **Know the syntax of the class diagram language (class representations, various kinds of associations)**
  7. **Know the syntax of the statechart diagram language**
  8. **Be able to create a class diagram and a statechart from requirements**
 
-    Class diagram: Library Example
-
+    Class diagram:
+	[libraryexample.pdf](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/libraryexample.pdf)
+	
     Statechart: ExceptionAndLightBulbClass.pdf
+	[exceptionandlightbulbclass.pdf](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/exceptionandlightbulbclass.pdf)
  9. **Know what is tested in different stages of testing (unit, integration, system, acceptance, regression)**
 
     **V**alidation: techniques for assessing the quality of a software product.
@@ -87,8 +89,6 @@ date: 2022-03-06T03:14:59.000-06:00
 - Basic ideas for implementation and methodology. Probably not code-based testing on MT. "Modern software can talk with other software".
 
 - Create your own diagrams. More "flexibile" than library example (of which the blank boxes represent short-term/long-term goals)...
-
-	**Statechart** ExceptionAndLightBulbClass.pdf ...
 
 - "Unit Testing in Java: How Tests Drive the Code" supplementary textbook
 
