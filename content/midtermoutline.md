@@ -45,7 +45,7 @@ date: 2022-03-06T03:14:59.000-06:00
     Class diagram:
 	[libraryexample.pdf](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/libraryexample.pdf)
 	
-    Statechart: ExceptionAndLightBulbClass.pdf
+    Statechart:
 	[exceptionandlightbulbclass.pdf](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/exceptionandlightbulbclass.pdf)
  9. **Know what is tested in different stages of testing (unit, integration, system, acceptance, regression)**
 
