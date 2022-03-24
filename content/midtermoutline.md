@@ -30,10 +30,28 @@ date: 2022-03-06T03:14:59.000-06:00
 
     Advantages/Why:
     [introclassesattr.pdf](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/introclassesattr.pdf)
+	
+	Using models to design complex systems is derigeur (strictness) in traditional engineering disciplines. No one would imagine constructing an edifice as complex as a bridge or an automobile without first constructing a variety of specialized system models from using models and modeling techniques. Models help us understand a complex problem and its potential solutions through abstraction. Therefore, it seems obvious that software systems, which are often among the most complex engineering systems, can benefit greatly.
+
+	MDD’s defining characteristic is that software
+development’s primary focus and products are
+models rather than computer programs.The
+major advantage of this is that we express
+models using concepts that are much less
+bound to the underlying implementation
+technology and are much closer to the problem
+domain relative to most popular programming
+languages. This makes the models easier to
+specify, understand, verify and maintain.
+
  4. **Know the Model-View-Controller (MVC) architectural style - its constraints and benefits** 
  ![](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/mvc-diagram.jpg)
 
 	Constraints and benefits: [model-view-controller.PDF](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/model-view-controller.PDF)
+	
+	* Reusability of application and / or user interface components,
+	* Ability to develop the application and user interface separately,
+	* Ability to inherit from different parts of the class hierarchy.
 
  5. **Know how to implement event-based notification in Java**
 
@@ -92,4 +110,4 @@ date: 2022-03-06T03:14:59.000-06:00
 
 - "Unit Testing in Java: How Tests Drive the Code" supplementary textbook
 
-- Create a control flow graph. Write out paths that satisfy edge converage. Write conditions. Write test cases. Invisible paths vs visible paths.
+- Create a control flow graph. Write out paths that satisfy edge converage. Write conditions. Write test cases. Are there any infeasible paths?
