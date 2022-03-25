@@ -1,7 +1,7 @@
 ---
 title: Midterm Outline
 date: 2022-03-06T03:14:59.000-06:00
-
+draft: true
 ---
 1. **Know the principles of Object Oriented programming (inheritance, encapsulation etc.)**
 
@@ -97,7 +97,7 @@ specify, understand, verify and maintain.
 
 - Draw Figure 2 diagram or textually describe the different phases. (Pair programming mentioned in class, senior-junior example)
 
-- Model Driven. Goal is to manage the scale of large systems. Theoretically spent all your time designing so coding/product can be automated/easier. Less testing because more validation. "The system is validated at the analysis model level".
+- Model Driven. Goal is to manage the scale of large systems. Theoretically spend all your time designing so coding/product can be automated/easier. Less testing because more validation. "The system is validated at the analysis model level".
 
 - Model-View-Controller. Recreate SUN diagram above.
    * Prof's favorite (often mentioned) benefit: Ability to create multiple views w/o shutting down the model.
@@ -106,7 +106,7 @@ specify, understand, verify and maintain.
 
 - Basic ideas for implementation and methodology. Probably not code-based testing on MT. "Modern software can talk with other software".
 
-- Create your own diagrams. More "flexibile" than library example (of which the blank boxes represent short-term/long-term goals)...
+- Create your own diagrams. More "flexible" than library example (of which the blank boxes represent short-term/long-term goals)...
 
 - "Unit Testing in Java: How Tests Drive the Code" supplementary textbook
 
