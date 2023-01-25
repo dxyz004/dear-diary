@@ -13,7 +13,7 @@
       
       <guid>http://example.org/midtermoutline/</guid>
       <description>Know the principles of Object Oriented programming (inheritance, encapsulation etc.)
-3354_oo_process.pdf3354_s20_june3-2020.pdfUse All to Achieve OO:
+Use All to Achieve OO:
  Inheritance: Is an ability to inherit. Function implementations (behaviors) by a subclass from a super class. Main benefit is software reuse. &amp;ldquo;No silver bullet&amp;rdquo;. Drawback: class hierarchy. Polymorphism: Is an ability to provide multiple implementations for a single function declaration. Simplifies code. Complicates testing. Superclass shape example: We need to have an array of shapes.</description>
     </item>
     
@@ -24,7 +24,7 @@
       
       <guid>http://example.org/fast/</guid>
       <description>FAST stands for:
- Free throws Age Steals Turnovers  </description>
+ Free throws Age Steals Turnovers  FAST is yet another one-number-metric to forecast a college basketball player&amp;rsquo;s pro potential&amp;hellip;</description>
     </item>
     
   </channel>

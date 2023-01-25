@@ -9,3 +9,5 @@ draft: false
 - **A**ge
 - **S**teals
 - **T**urnovers
+
+FAST is yet another one-number-metric to forecast a college basketball player's pro potential...
