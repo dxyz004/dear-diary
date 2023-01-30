@@ -4,9 +4,9 @@ date: 2023-01-30T15:55:07-06:00
 draft: false
 ---
 
-[logo](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/home.png)
+![](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/home.png)
 
-Kaulu (kah-oo-loo) is a Hawaiian word for a mythological trickster god. The search engine's borrows its fun (with less mischief) sounding name.
+Kaulu (kah-oo-loo) is a Hawaiian word for a mythological trickster god. The search engine borrows its fun (with less mischief) sounding name.
 
 Demonstration notes:
 - The local search functionality is handled using Lucene. The web search functionality is handled using a Google API.
