@@ -39,7 +39,7 @@ specify, understand, verify and maintain.
 
  4. **Know the Model-View-Controller (MVC) architectural style - its constraints and benefits** 
 
-	Constraints and benefits: [model-view-controller.PDF](https://heuristic-brahmagupta-965a2c.netlify.app/uploads/model-view-controller.PDF)
+	Constraints and benefits: 
 	
 	* Reusability of application and / or user interface components,
 	* Ability to develop the application and user interface separately,
